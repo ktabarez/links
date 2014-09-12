@@ -15,4 +15,5 @@ Asp.NET
     * [Overview + Other Custom Providers](http://www.asp.net/identity/overview/extensibility/overview-of-custom-storage-providers-for-aspnet-identity)
     * [CouchDb](http://danielwertheim.se/2014/01/24/using-mycouch-to-store-asp-net-identity-data-in-couchdb-or-in-the-cloud-using-cloudant/)
     * [Custom Create Identity](//forums.asp.net/t/1946495.aspx?Custom+CreateIdentity)
+    * [Raven DB Example](https://github.com/tugberkugurlu/AspNet.Identity.RavenDB)
   
