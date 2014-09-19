@@ -16,4 +16,10 @@ Asp.NET
     * [CouchDb](http://danielwertheim.se/2014/01/24/using-mycouch-to-store-asp-net-identity-data-in-couchdb-or-in-the-cloud-using-cloudant/)
     * [Custom Create Identity](//forums.asp.net/t/1946495.aspx?Custom+CreateIdentity)
     * [Raven DB Example](https://github.com/tugberkugurlu/AspNet.Identity.RavenDB)
+    * 
+    * 
+#NoSQL#
+==========================
+##CouchBase##
+ * [Transactions](http://stackoverflow.com/questions/12143957/couchbase-consistency)
   
